@@ -1,24 +1,13 @@
 # Meeting Intelligence AI
 
-Summaries, decisions and action items synced to your stack.
+Zion AI App Network (Batch 100 — Comms & Contact Center AI). Meeting intelligence: live summaries, decision capture, action-item extraction and CRM sync for every meeting.
 
-Part of the **Zion AI App Network** — Batch 98 (Voice & Communications AI): 874+ free, open-source AI apps.
-
-- Live page: https://ziontechgroup.com/meeting-intelligence-ai/
+- Live app: https://ziontechgroup.com/meeting-intelligence-ai/
 - Free AI Discovery (always online, always free): https://ziontechgroup.com/discovery/
-- Network hub: https://ziontechgroup.com/zion-app-network/
-- Master catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- Apps Network map: https://ziontechgroup.com/apps/network.html
+- All free apps: https://ziontechgroup.com/apps/
+- Batch 100 spotlight: https://ziontechgroup.com/apps/october-2026-batch100-comms.html
+- Related: https://ziontechgroup.com/smart-call-routing-ai/ · https://ziontechgroup.com/call-intelligence-hub/ · https://ziontechgroup.com/voicemail-triage-ai/
+- Commercial: commercial@ziontechgroup.com
 
-## Features
-- Automatic meeting summaries with decisions and action items
-- Owner-tagged follow-ups synced to your task stack
-- Topic and commitment tracking across recurring meetings
-- Pairs with Call Intelligence Hub for a unified voice-of-meeting record
-
-## Related apps
-- [call-intelligence-hub](https://github.com/Zion-support/call-intelligence-hub)
-- [smart-call-routing-ai](https://github.com/Zion-support/smart-call-routing-ai)
-- [voicemail-triage-ai](https://github.com/Zion-support/voicemail-triage-ai)
-- [ai-meeting-notes-copilot](https://github.com/Zion-support/ai-meeting-notes-copilot)
-
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+Part of the Zion Tech Group free AI App Network — 870+ free, interlinked AI apps.
